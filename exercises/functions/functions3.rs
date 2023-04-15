@@ -3,7 +3,7 @@
 
 
 fn main() {
-    call_me();
+    call_me(3);
 }
 
 fn call_me(num: u32) {
